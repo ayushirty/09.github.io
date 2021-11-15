@@ -1,0 +1,16 @@
+input {
+    display :block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+h1{
+    font-weight: 1000;
+    background-color:  yellow;
+    
+}
+body{
+    background : linear-gradient(90deg, lightblue, purple);
+}
+button{
+    margin-bottom: 20px;
+}
